@@ -1,3 +1,4 @@
-# BIPS_Python
-# This folder contain Bangladeshi ICT Professionals in Sweden (BIPS) python 
-# Pyton tutorials.
+# BIPS-Python study circle/meet up folder
+# This folder contain some tutorials from Bangladeshi ICT Professionals in Sweden (BIPS) 
+# Please see org folder for Rezwan Rafi's lecture notes
+
